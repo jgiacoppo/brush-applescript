@@ -1,5 +1,5 @@
 {
-  "name": "brush-applescript",
+  "name": "@alexgorbatchev/brush-applescript",
   "version": "4.0.0",
   "description": "AppleScript brush module for SyntaxHighlighter.",
   "keywords": [
@@ -42,5 +42,8 @@
     "presets": [
       "es2015"
     ]
+  },
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org"
   }
 }
