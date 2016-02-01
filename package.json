@@ -22,8 +22,8 @@
     "test": "mocha --opts mocha.opts test.js"
   },
   "dependencies": {
-    "brush-base": "syntaxhighlighter/brush-base",
-    "regex-lib": "syntaxhighlighter/regex-lib"
+    "@alexgorbatchev/brush-base": "^4.0.0",
+    "@alexgorbatchev/regex-lib": "^4.0.0"
   },
   "devDependencies": {
     "babel-core": "^6.1.21",
@@ -31,7 +31,7 @@
     "babel-register": "^6.4.3",
     "chai": "^3.4.1",
     "mocha": "^2.3.4",
-    "parser": "syntaxhighlighter/parser"
+    "@alexgorbatchev/parser": "^4.0.0"
   },
   "engines": {
     "node": ">=4",

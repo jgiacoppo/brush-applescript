@@ -2,11 +2,11 @@
 
 AppleScript brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
 
-[![Build Status](https://travis-ci.org/alexgorbatchev/brush-applescript.svg)](https://travis-ci.org/alexgorbatchev/brush-applescript)
+[![Build Status](https://travis-ci.org/syntaxhighlighter/brush-applescript.svg)](https://travis-ci.org/syntaxhighlighter/brush-applescript)
 
 ## Installation
 
-    npm install syntaxhighlighter/brush-applescript
+    npm install @alexgorbatchev/brush-applescript
 
 ## Testing
 
